@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tamara\\Desktop\\ZADNJO\\ZADNJO\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {}
+    "C:\\Users\\Tamara\\Desktop\\IntegratedSystems2025\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tamara\\Desktop\\ZADNJO\\ZADNJO\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {
+    "C:\\Users\\Tamara\\Desktop\\IntegratedSystems2025\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tamara\\Desktop\\ZADNJO\\ZADNJO\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tamara\\Desktop\\IntegratedSystems2025\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
         "projectName": "EShop.Domain",
-        "projectPath": "C:\\Users\\Tamara\\Desktop\\ZADNJO\\ZADNJO\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
+        "projectPath": "C:\\Users\\Tamara\\Desktop\\IntegratedSystems2025\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Tamara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tamara\\Desktop\\ZADNJO\\ZADNJO\\EShopApplication\\EShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tamara\\Desktop\\IntegratedSystems2025\\EShopApplication\\EShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

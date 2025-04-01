@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EShop.Domain.DomainModels;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace EShop.Domain.DomainModels
 {
-    public class Product
+    public class Product : BaseEntity 
     {
-        [Key]
-        public Guid Id { get; set; }
+        
         [Required]
         public string? ProductName { get; set; }
         [Required]

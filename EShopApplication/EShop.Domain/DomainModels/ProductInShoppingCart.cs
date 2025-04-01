@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using EShop.Domain.DomainModels;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,10 +9,9 @@ using System.Threading.Tasks;
 
 namespace EShop.Domain.DomainModels
 {
-    public class ProductInShoppingCart
+    public class ProductInShoppingCart : BaseEntity
     {
-        [Key]
-        public Guid Id { get; set; }
+        
         public string? ProductId { get; set; }
         public Product? AddedProduct { get; set; }
         public string? ShoppingCartId { get; set; }
