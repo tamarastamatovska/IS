@@ -12,10 +12,10 @@ namespace EShop.Domain.DomainModels
     public class ProductInShoppingCart : BaseEntity
     {
         
-        public string? ProductId { get; set; }
-        public Product? AddedProduct { get; set; }
-        public string? ShoppingCartId { get; set; }
-        public ShoppingCart? AddedShoppingCart { get; set; }
+        public Guid? ProductId { get; set; }
+        public Product? Product { get; set; }
+        public Guid? ShoppingCartId { get; set; }
+        public ShoppingCart? ShoppingCart { get; set; }
         public int Quantity { get; set; }
     }
 }
